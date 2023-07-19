@@ -6,9 +6,9 @@ VRINDA STORE DATA ANALYSIS
 
 STEPS -
 
-DATA COLLECTION 
-DATA CLEANING 
-DATA PROCESSING
+DATA COLLECTION,  
+DATA CLEANING, 
+DATA PROCESSING, 
 DATA ANALYSIS - using pivot tables and chart 
 
 sample insights :
@@ -18,7 +18,7 @@ sample insights :
 * Adult age group (30-49 yrs) is max contributing(50%)
 * Amazon, Flipkart and Myntra channels are max contributing(80%)
 
--- Final Conclusion to improve Vrinda Store Sales:
+--Final CONCLUSION to improve Vrinda Store Sales:
 
   Target women customers of age group(30-49 yrs) living in Maharastra,
   Karnatka and Uttar Pradesh by showing ads/offers/coupans available on 
